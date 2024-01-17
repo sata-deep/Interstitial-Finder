@@ -26,14 +26,14 @@ This repository contains the **GUI code for the Interstitials App**, developed i
     Pymatgen
 
     ## **Installation**
+Author
 
+Developed by Satadeep Bhattacharjee at IKST Bangalore. The GUI is intuitively designed for ease of use while maintaining robust functionality for defect analysis.
 Ensure you have **Python** installed on your machine. Clone the repository and install the required dependencies:
 ```bash
 pip install -r requirements.txt
 To run the code:
 python New.py
 
-Author
 
-Developed by Satadeep Bhattacharjee at IKST Bangalore. The GUI is intuitively designed for ease of use while maintaining robust functionality for defect analysis.
 
