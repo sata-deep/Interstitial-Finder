@@ -14,5 +14,8 @@ Features
     PIL (Python Imaging Library)
     Pymatgen
 
-    Install the dependencies:
-    pip install -r requirements.txt
+    ## **Installation**
+
+Ensure you have **Python** installed on your machine. Clone the repository and install the required dependencies:
+```bash
+pip install -r requirements.txt
