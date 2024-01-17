@@ -19,7 +19,7 @@ This repository contains the **GUI code for the Interstitials App**, developed i
 - **Progress Bar**: To keep track of the ongoing process.
 - **Submit Button**: To start the defect generation process.
     
-    Dependencies
+    ##**Dependencies**
 
     Tkinter
     PIL (Python Imaging Library)
