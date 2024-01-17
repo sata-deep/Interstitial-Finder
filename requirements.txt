@@ -1,0 +1,4 @@
+tkinter
+Pillow
+numpy
+pymatgen
