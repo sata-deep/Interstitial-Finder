@@ -1,4 +1,5 @@
 # Interstitial-Finder
+If you are interested in Hydrogen storage materials, this code can help you to find the interstitial sites in the material.
 # **Interstitials App GUI Code**
 
 This repository contains the **GUI code for the Interstitials App**, developed in Python using the **Tkinter library**. The app is designed to facilitate the identification and analysis of interstitial defects in crystal structures. It provides a user-friendly interface to input structural data and select parameters for defect generation.
