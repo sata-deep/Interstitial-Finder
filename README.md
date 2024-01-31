@@ -34,5 +34,8 @@ pip install -r requirements.txt
 To run the code:
 python New.py
 
+It will appear as:
+![image](https://github.com/sata-deep/Interstitial-Finder/assets/27854932/1e00564b-6789-48f0-9686-1d7ddd3438fd)
+
 
 
