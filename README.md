@@ -36,7 +36,7 @@ python New.py
 ```
 It will appear as:
 
-![image](https://github.com/sata-deep/Interstitial-Finder/assets/27854932/f801d8e9-93d5-460a-8b63-b8ae06e68fa8)
+![image](https://github.com/sata-deep/Interstitial-Finder/assets/27854932/1b5437c2-dc7e-4927-bf37-62acb9a15971)
 
 
 
