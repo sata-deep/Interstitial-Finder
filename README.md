@@ -33,9 +33,10 @@ Ensure you have **Python** (you need 3.8 or above) installed on your machine. Cl
 pip install -r requirements.txt
 To run the code:
 python New.py
-
+```
 It will appear as:
-![image](https://github.com/sata-deep/Interstitial-Finder/assets/27854932/1e00564b-6789-48f0-9686-1d7ddd3438fd)
+
+![image](https://github.com/sata-deep/Interstitial-Finder/assets/27854932/f801d8e9-93d5-460a-8b63-b8ae06e68fa8)
 
 
 
