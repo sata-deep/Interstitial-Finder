@@ -28,7 +28,7 @@ This repository contains the **GUI code for the Interstitials App**, developed i
 
     ## **Installation**
 The GUI is intuitively designed for ease of use while maintaining robust functionality for defect analysis.
-Ensure you have **Python** installed on your machine. Clone the repository and install the required dependencies:
+Ensure you have **Python** (you need 3.8 or above) installed on your machine. Clone the repository and install the required dependencies:
 ```bash
 pip install -r requirements.txt
 To run the code:
